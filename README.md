@@ -20,14 +20,17 @@ In this project, I focused on three main questions:
 - **46%** of customers churned because of a **competitor-related reason**. Top reasons were:
      - "Competitor made a better offer"
      - "Competitor had better devices"
-- **California** had an unusually high churn rate of **63%**. California customers who churned **called customer service significantly less** than customers in other states, which could be correlated with the churn rate.
-- Customers with **yearly contracts churned 40% less** than customers with monthly contracts.
-- Customers in a **group plan churned 26% less** than customers not in a group plan.
-- Customers who **use less than 5 GB a month** are **22% more likely to churn if they have an unlimited plan** compared to those who do not have an unlimited plan.
+- The churn rate of the **3,400 customers** with **monthly contracts** is **46% vs. 7%** for the **3,300 customers** with **yearly contracts**.
+- The churn rate of the **roughly 5,000 customers not in a **group plan** is **33%** vs. 6%** for customers **in a group plan**.
+- **Customers in a group plan** also pay, on average, **$10 less every month** than customers not in a group plan.
+- Among the **3,200 customers** who **use less than 5 GB a month**, the churn rate for those **who pay for an unlimited plan** is **41% vs. 18%** for those **who do not**.
+- **California** had an unusually high churn rate of **63%** (number of California customers = 68). Furthermore, California customers **called customer service fewer** times than customers in other states; the average number of customer service calls in California vs. overall = 0.65 vs. 0.92.
 
 ## Recommended Next Steps:
-- **Do competitor research** on competitor offers and devices to make our offers more competitive and devices more appealing to customers.
-- Advise the marketing team to **target ad campaigns about yearly contracts to customers with monthly contracts.** (i.e., you can save X dollars a year with a yearly plan!)
-- Investigate **why California customers are not calling customer service**.
-- Advise the marketing team to **advertise group plans to customers who are not in a group**.
-- Advise the marketing team to **advertise non-unlimited plans to customers with unlimited plans who are using less than 5 GB of data a month**.
+1. **Do competitor research** on competitor offers and devices to make our offers more competitive and devices more appealing to customers.
+2. Advise the marketing team to **target ad campaigns about yearly contracts to customers with monthly contracts.**
+     - Let's say **10% of the 3,400 monthly customers** (340) switched to yearly contracts; the churn rate of those customers **would drop from 46% to 7%**.
+     - 340 x (46% - 7%) = **about 132 customers retained**.
+4. Advise the marketing team to **advertise group plans to customers who are not in a group**. (i.e., "Add-a-Line" or "Refer-a-Friend" offers)
+5. Advise the marketing team to **advertise non-unlimited plans** to customers with unlimited plans who are **using less than 5 GB of data a month**. A **retained customer is better** than a lost customer.
+6. Investigate California's churn rate and **why California customers are not calling customer service**. (low priority)
